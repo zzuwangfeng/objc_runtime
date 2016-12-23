@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:ForwardingTarget/ForwardingTarget.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Runtime-class_replaceMethod/Runtime-class_replaceMethod.xcodeproj">
+   </FileRef>
+</Workspace>
